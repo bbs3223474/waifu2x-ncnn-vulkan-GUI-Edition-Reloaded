@@ -124,56 +124,56 @@
     <value>你想下载更新吗？</value>
   </data>
   <data name="AudioNot" xml:space="preserve">
-    <value>音频文件的提取失败。
-如果你启用了高级设置，请检查你的设置。</value>
+    <value>无法提取音轨文件。
+如果您启用了高级设置，请检查您的设置内容。</value>
   </data>
   <data name="ButtonReUpScaleGIF" xml:space="preserve">
-    <value>Reupscaling GIF</value>
+    <value>重超采样 GIF</value>
   </data>
   <data name="ButtonReUpscaleVideo" xml:space="preserve">
     <value>视频的重新缩放</value>
   </data>
   <data name="ButtonUpScaleGIF" xml:space="preserve">
-    <value>Upscaling GIF</value>
+    <value>超采样 GIF</value>
   </data>
   <data name="ButtonUpscaleVideo" xml:space="preserve">
-    <value>视频的缩放比例</value>
+    <value>超采样视频</value>
   </data>
   <data name="ClipboardCaption" xml:space="preserve">
-    <value>剪贴板</value>
+    <value>从剪贴板导入</value>
   </data>
   <data name="ClipboardErrorCaption" xml:space="preserve">
     <value>剪贴板的内容不是图像。</value>
   </data>
   <data name="ConfirmClose" xml:space="preserve">
-    <value>目前有一个升格的框架文件。
-如果你在这时退出应用程序，所有被放大的
-文件将被丢失。 你确定你要退出吗？</value>
+    <value>当前正有一帧图像处于超采样过程中。
+如果您在此时退出程序，所有图像将会丢失。
+您确定你要退出吗？</value>
   </data>
   <data name="ConvertProgress" xml:space="preserve">
-    <value>图像正在被转换。 请稍等...</value>
+    <value>正在转换图像，请稍等...</value>
   </data>
   <data name="ConvertScalled" xml:space="preserve">
     <value>文件已转换</value>
   </data>
   <data name="cuganModelToolTipCaption" xml:space="preserve">
-    <value>指定升格时要使用的模型。
+    <value>指定超采样所使用的所使用的模型。
 SE：默认情况下选择该选项。
-Nose：只能指定 "2x "为升压系数。 去噪选项不可用。</value>
+Nose：仅支持2倍超采。降噪选项不可用。</value>
   </data>
   <data name="CurrentString" xml:space="preserve">
     <value>当前版本：</value>
   </data>
   <data name="DELProgress" xml:space="preserve">
-    <value>该文件正在被删除。 请稍等...</value>
+    <value>正在删除文件，请稍等...</value>
   </data>
   <data name="DELScalled" xml:space="preserve">
-    <value>删除文件</value>
+    <value>文件已删除</value>
   </data>
   <data name="DLAbortConfirm" xml:space="preserve">
-    <value>目前下载正在进行中。
-如果你停止，你的下载就会丢失。
-你确定你要停止这个过程吗？</value>
+    <value>当前正在下载中。
+如果这时候中止，所有已下载的内容将会被删除。
+您是否确定要中止？</value>
   </data>
   <data name="DLConfirm" xml:space="preserve">
     <value>FFmpeg并不存在。 你想下载它吗？
